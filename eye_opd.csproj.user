@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="application.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="consent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="declaration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="discharge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

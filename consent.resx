@@ -1,0 +1,133 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox7.Text" xml:space="preserve">
+    <value>1. मैं एतद द्वारा डॉ_________________________ और उनको जिन्को वह अपने सहयोगियो या सहायकों के रूप में नियुक्त करते है, 
+अपनी बाई/दाई आंख में ट्राऑक्यूलर लेस के साथ इंट्राऑक्यूलर लेस बिना मोतियाबिंद ऑपरेशन करने का अधिकार देता हूँ। 
+मुझे समझाया गया है कि ऑपरेशन / प्रक्रिया के दौरान अनपेक्षित अवस्थाओं का पता चल सकता है या सामने आ सकती है तो अपेक्षित 
+ऑपरेशन से अतिरिक्त या अलग दूसरी शल्यचिकित्सीय या अन्य प्रक्रियाओं को आवश्यक बना सकती है। इसलिए मैं उपर्युका नाम के अतिरिक्त 
+शल्यचिकित्सा या दूसरी पक्रियाएं करने का अनुरोध करता और अधिकार प्रदान करता हूँ जिन्हें वह आवश् या वाधित समझते हो 
+
+2. ऑपरेशन की प्रकृति और उद्देश्य उसकी आवश्यकता मेरी अवस्था के इलाज के अन्य संभावित तरीकों के बारे में
+मुझे पूरी तरह बताया गाया है और में उन्हें समझता हूँ। 
+
+3. मैं पूरी तरह अवगत हूँ कि शल्यक्रिया नेकनियति से की जा रही है और प्राप्त हो सकने वाले परिणामों के बारे में कोई गारंटी या आश्वासन 
+नहीं दिया गया है।
+
+4. मैं ऐनेस्थेसिया और ऐसे एनेस्थेटिक्सस के उपयोग से सहमत हूँ जिसे आवश्यक समझा जाए।
+
+5. में चिकित्सीय कर्मियों की नजर में आवश्यक और बांछित दवाओं और इनफ्यूजन दिए जाने से सहमत हूँ। 
+
+6. मैं चिकित्सीय वैज्ञानिक या शैक्षणिक उद्देश्य से प्रक्रिया के अवलोकन फोटो उतारने या टेलीविजन से प्रसारित करने की सहमति देता हूँ, 
+बशर्त कि चित्र या उनके साथ दिए जाने वाले वर्णनात्मक पाठ से मेरा परिचय प्रकट न हो। 
+
+7. शल्यचिकित्सा द्वारा निकाले गए कोई भी उतक या अंगो को संस्थान परंपरागत चलन के अनुरूप ठिकाने लगा सकता है|
+
+रक्षित / खराब दृश्य पूर्वानुमान वाले रोगियों के ऑपरेशन के लिए सूचित सहमति 
+
+मुझे परिचर्या करने वाले रार्जन / नामित सहायक द्वारा ऑपरेशन से पहले बताया गया है कि शल्यचिकित्सा के बाद दृश्य पूर्वानुमान रक्षित / अनिशिक्त 
+बहुत खराब है। मुझे इसके कारण बताए गए है। कारण है (रोगी / रोगी के लिए सहमति देने लिए प्राधिकृत व्यक्ति द्वारा हस्ताक्षर करने के लिए ) आघात, 
+डायबेटिक रेटिनोपैथी/ मायोपिया / ग्लाकोगा / यूवियाशोथ/ उम्र संबंधी नेत्रीय क्षय / पीवीआर / कप्लेस ट्रैक्शन डिटैचमेंट / कंबाइंड ट्रेक्शनल 
+रेग्मेटोजेनस रेटिनल द्विभाजन| सीसरित लेस या आईओएल / एडोलाइटिस (आख का गंभीर संक्रमण)
+---------------------------------------------------------------------------------------------------------
+
+रोगी / रोगी के लिए सहमति के लिए 
+प्राधिकृत व्यक्ति के हस्ताक्षर________________________
+
+---------------------------------------------------------------------------------------------------------
+
+मे अधोहस्ताक्षरकर्ता (रोगी या निकटतम संबंधी) एतद्द्वारा संभावित जटिलताओं और सुरक्षित / खराब दृष्टि के पूर्वानुमान के बारे में पूरी जानकारी के साथ अपनी 
+बाई / दाई आंख के ऑपरेशन की सहमति देता हूँ। मैं प्रमाणित करता हूँ कि मैंने यह सूचित सहमति पढ़ ली है, यह मुझे पढ़ कर सुनाई गई है और मेरी मातृभाषा में 
+मुझे समझाई गई है। और सारी खाली जगहें या निवेशन या पूर्ति की माग करने वाले सभी कथन मेरे हस्ताक्षर करने से पहले भर गए थे और लागू न होने वाले 'पैरे 
+काट दिए थे। चिकित्सक ने मेरे सभी प्रशनों के संतोषजनक उत्तर दिए है।</value>
+  </data>
+  <metadata name="printDocument1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="printPreviewDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>181, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="printPreviewDialog1.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAAAIAAoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA
+        AAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////APb29v/29vb/9vb2//b29v/29vb/9vb2//b2
+        9v////8A////AP///wD///8A9vb2//b29v/29vb/9vb2//b29v/29vb/QkJC/0JCQv9CQkL/QkJC/0JC
+        Qv/29vb/////AP///wD///8A////APb29v9CQkL/QkJC/0JCQv9CQkL/9vb2/0JCQv9CQkL/QkJC/0JC
+        Qv9CQkL/9vb2/////wD///8A////AP///wD29vb/QkJC/0JCQv9CQkL/QkJC//b29v9CQkL/QkJC/0JC
+        Qv9CQkL/QkJC//b29v////8A////AP///wD///8A9vb2/0JCQv9CQkL/QkJC/0JCQv/29vb/9vb2//b2
+        9v/29vb/9vb2//b29v/29vb/9vb2//b29v////8A////APb29v9CQkL/QkJC/0JCQv9CQkL/9vb2/0JC
+        Qv9CQkL/QkJC/0JCQv9CQkL/QkJC/0JCQv/29vb/////AP///wD29vb/QkJC/0JCQv9CQkL/QkJC//b2
+        9v9CQkL/QkJC/0JCQv9CQkL/QkJC/0JCQv9CQkL/9vb2/////wD///8A9vb2/0JCQv9CQkL/QkJC/0JC
+        Qv/29vb/QkJC/0JCQv9CQkL/QkJC/0JCQv9CQkL/QkJC//b29v////8A////APb29v/29vb/9vb2//b2
+        9v/29vb/9vb2/0JCQv9CQkL/QkJC/0JCQv9CQkL/QkJC/0JCQv/29vb/////AP///wD///8A////AP//
+        /wD///8A////APb29v9CQkL/QkJC/0JCQv9CQkL/QkJC/0JCQv9CQkL/9vb2/////wD///8A////AP//
+        /wD///8A////AP///wD29vb/QkJC/0JCQv9CQkL/QkJC/0JCQv9CQkL/QkJC//b29v////8A////AP//
+        /wD///8A////AP///wD///8A9vb2/0JCQv9CQkL/QkJC/0JCQv9CQkL/QkJC/0JCQv/29vb/////AP//
+        /wD///8A////AP///wD///8A////APb29v/29vb/9vb2//b29v/29vb/9vb2//b29v/29vb/9vb2////
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A
+</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>42</value>
+  </metadata>
+</root>
